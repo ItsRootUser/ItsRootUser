@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- I'm from **Slovakia**
+- 🌍 I'm from **Slovakia**
 
 - 👨‍💻 All of my projects are available at [this page](this page)
 
